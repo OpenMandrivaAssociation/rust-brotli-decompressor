@@ -9,8 +9,8 @@
 %global crate brotli-decompressor
 
 Name:           rust-%{crate}
-Version:        2.3.0
-Release:        2%{?dist}
+Version:        5.0.3
+Release:        1%{?dist}
 Summary:        Brotli decompressor that with an interface avoiding the rust stdlib
 
 # Upstream license specification: BSD-3-Clause/MIT
